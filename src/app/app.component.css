@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    align-items: center;
+    color: inherit;
+    display: flex;
+}
+
+h1{
+    font-size: 1em;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin: 0px 0px 24px 24px;
+    padding-top: 24px;
+}
+
+h1 span{
+    padding-left: 16px;
+}
+
+.wrapper{
+    position: relative;
+    min-height: 100%;
+}
